@@ -33,10 +33,10 @@ class Validator {
  }
  isDate(d){
    if(!d)
-return false;
-if(Date.parse(d))
-return true;
-return false;
+   return false;  
+   if(Date.parse(d))
+   return true;
+   return false;
  }
 }
 module.exports = Validator;
