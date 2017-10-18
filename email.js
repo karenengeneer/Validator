@@ -9,4 +9,4 @@ class URLValidator extends Validator{
      return false;
  }
  }
- module.exports = Validator;
+ module.exports = email.js;
