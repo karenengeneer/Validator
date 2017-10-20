@@ -9,4 +9,4 @@ class ArmPhoneValidator extends Validator{
       return false;
 }
 }
-module.exports = armphone.js;
+module.exports = ArmPhoneValidator;
