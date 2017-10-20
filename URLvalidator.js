@@ -8,4 +8,4 @@ class URLValidator extends Validator{
      return false;
  }
  }
- module.exports = URLvalidator.js;
+ module.exports = URLValidator;
