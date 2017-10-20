@@ -10,4 +10,4 @@ class PasswordValidator extends Validator{
     return false;
   }
 }
-module.exports = pass.js;
+module.exports = PasswordValidator;
