@@ -1,3 +1,4 @@
+const Validator = require('./Validator.js');
 class URLValidator extends Validator{
    isValURL(url){
    if(!url)
