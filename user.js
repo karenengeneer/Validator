@@ -9,4 +9,4 @@ class UsernameValidator extends Validator{
    return false;
  }
 }
-module.exports = user.js;
+module.exports = UsernameValidator;
